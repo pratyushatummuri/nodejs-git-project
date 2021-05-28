@@ -5,6 +5,6 @@ http
         res.write("<h1>Home Page!</h1>");
         res.end();
 
-        //nothing changes
+        //404- feature implemented
     })
     .listen(8080);
