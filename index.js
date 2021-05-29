@@ -6,10 +6,8 @@ http
         res.write("<h1>Home Page!</h1>");
         res.end();
 
-<<<<<<< HEAD
-        //abort feautr
-=======
         //404- feature implemented
->>>>>>> 404-feature
+        //latest change
+        
     })
     .listen(8080);
