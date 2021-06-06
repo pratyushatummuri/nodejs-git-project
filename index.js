@@ -6,12 +6,10 @@ http
         res.write("<h1>Home Page!</h1>");
         res.end();
 
-<<<<<<< HEAD
         //404- feature implemented
         //latest change
+
+        console.log("added new");
         
-=======
-        //nothing changes
->>>>>>> parent of 42175eb (abort feature added)
     })
     .listen(8080);
